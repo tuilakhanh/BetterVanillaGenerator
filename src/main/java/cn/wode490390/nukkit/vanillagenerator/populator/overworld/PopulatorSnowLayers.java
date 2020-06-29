@@ -145,7 +145,6 @@ public class PopulatorSnowLayers extends Populator {
         uncoverableBlock[CHORUS_PLANT] = true;
         uncoverableBlock[242] = true; // CAMERA
         uncoverableBlock[BEETROOT_BLOCK] = true;
-        uncoverableBlock[PISTON_EXTENSION] = true;
     }
 
     @Override

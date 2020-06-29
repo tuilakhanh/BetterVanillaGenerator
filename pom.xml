@@ -51,19 +51,14 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
-    <repositories>
-        <repository>
-            <id>nukkitx-repo</id>
-            <url>https://repo.nukkitx.com/main/</url>
-        </repository>
-    </repositories>
-
     <dependencies>
         <dependency>
             <groupId>cn.nukkit</groupId>
             <artifactId>nukkit</artifactId>
-            <version>1.0-SNAPSHOT</version>
-            <scope>provided</scope>
+            <version>NewRaknet</version>
+            <optional>false</optional>
+            <scope>system</scope>
+            <systemPath>${basedir}/lib/powernukkit.jar</systemPath>
         </dependency>
         <dependency>
             <groupId>org.jogamp.gluegen</groupId>
