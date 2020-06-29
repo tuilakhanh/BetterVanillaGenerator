@@ -5,7 +5,7 @@
 <!--[![Servers](https://img.shields.io/bstats/servers/5198)](https://bstats.org/plugin/bukkit/BetterVanillaGenerator/5198)
 [![Players](https://img.shields.io/bstats/players/5198)](https://bstats.org/plugin/bukkit/BetterVanillaGenerator/5198)-->
 
-This plugin not only provides better terrain generators for [Nukkit](https://github.com/NukkitX/Nukkit), you can also customize your world by modifying the configuration.
+This plugin not only provides better terrain generators for [PowerNukkit](https://github.com/GameModsBR/PowerNukkit)(it also work in Nukkit-NewRaknet), you can also customize your world by modifying the configuration.
 
 In addition, this plugin can offload overworld surface noise operations onto the GPU. (Experimental)
 
