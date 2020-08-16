@@ -53,12 +53,9 @@
 
     <dependencies>
         <dependency>
-            <groupId>cn.nukkit</groupId>
-            <artifactId>nukkit</artifactId>
-            <version>NewRaknet</version>
-            <optional>false</optional>
-            <scope>system</scope>
-            <systemPath>${basedir}/lib/powernukkit.jar</systemPath>
+            <groupId>org.powernukkit</groupId>
+            <artifactId>powernukkit</artifactId>
+            <version>1.3.1.4-PN</version>
         </dependency>
         <dependency>
             <groupId>org.jogamp.gluegen</groupId>
